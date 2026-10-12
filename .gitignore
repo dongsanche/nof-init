@@ -1,0 +1,18 @@
+# build artifacts (compiled test/example binaries)
+m0_selfpair
+m1_cm
+nof_init
+unit_test
+robust_test
+stress_init
+lifecycle_test
+keepalive_test
+multi_queue_test
+bench
+abort_shutdown_test
+reconnect_test
+
+# editor/OS cruft
+*.o
+*.swp
+*~
